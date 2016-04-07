@@ -1,3 +1,5 @@
+# This project was done by Benedict Georges ID#68652
+
 from geocode import getGeocodeLocation
 import json
 import httplib2
